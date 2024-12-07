@@ -1,0 +1,26 @@
+#fb-head {
+    color: blue;
+    font-size: 10px;
+}
+.name{
+    background-color: red;
+}
+h2{
+    color: pink;
+}
+.demo{
+    color: bisque;
+}
+#mm{
+    color: chartreuse;
+}
+#input{
+    color: white;
+    background-color: black;
+    
+}
+.photo {
+    height: 200px;
+
+
+}
